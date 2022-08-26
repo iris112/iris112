@@ -15,8 +15,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          USEREMAIL: ${{ secrets.USER_EMAIL }}
       - name: Commit & Push
+        env:
+          USERNAME: ${{ github.repository_owner }}
+          USEREMAIL: ${{ secrets.USER_EMAIL }}
         run: |
           git config user.name $USERNAME
           git config user.email $USEREMAIL
