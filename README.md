@@ -15,6 +15,6 @@
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=iris112)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-stats-extended.vercel.app/api?username=iris112&show_icons=true&include_all_commits=true&theme=dark)  
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=iris112&show_icons=true&include_all_commits=true)  
 
-![Profile views](https://gpvc.arturio.dev/iris112)  
+![Profile views](https://komarev.com/ghpvc/?username=iris112)  
